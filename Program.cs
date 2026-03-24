@@ -1,0 +1,10 @@
+﻿namespace Practice_Push_GitHub
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, Olatunji");
+        }
+    }
+}
